@@ -1,0 +1,8 @@
+[
+  "tests/test_diffing.py::test_content_hash_changes_when_text_changes",
+  "tests/test_diffing.py::test_content_hash_stable_for_same_text",
+  "tests/test_diffing.py::test_extract_text_strips_scripts_and_styles",
+  "tests/test_diffing.py::test_extract_text_strips_tags",
+  "tests/test_storage.py::test_store_persists_across_instances",
+  "tests/test_storage.py::test_store_returns_none_for_unknown_url"
+]
