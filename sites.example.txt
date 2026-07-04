@@ -1,0 +1,3 @@
+# По одному URL на строку. Строки с # игнорируются.
+https://example.com
+https://example.com/changelog
